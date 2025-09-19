@@ -6,7 +6,7 @@ This repository will host the code for our paper:
 > *Ashish Mittal, Sunita Sarawagi, Preethi Jyothi*  
 > IBM Research & IIT Bombay  
 
-📄 [Paper PDF](RECAST.pdf)
+📄 [Paper PDF](Recast.pdf)
 
 ---
 
