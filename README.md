@@ -17,7 +17,7 @@ It leverages decoder-state embeddings of a pretrained ASR model to retrieve and 
 ---
 
 ## Status
-🚧 Code and models will be added soon. Stay tuned!  
+🚧 Code will be added soon. Stay tuned!  
 
 ---
 
